@@ -4,8 +4,7 @@
 
 <br clear="both">
 
-<p align="center">i'm a dedicated software engineer, passionate about developing high-quality software solutions using clean
-code practices and implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines.</p>
+<p align="center">I'm a dedicated software engineering student, enthusiastic about crafting high-quality software solutions with a focus on clean code practices and the implementation of Continuous Integration/Continuous Deployment (CI/CD) pipelines. Outside of my academic pursuits, I also enjoy exploring cybersecurity as a hobby, actively seeking opportunities to enhance my understanding of security concepts and practices.</p>
 
 <br clear="both">
 
