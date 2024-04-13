@@ -2,12 +2,12 @@
   <img src="https://github.com/msosav/msosav/assets/85181687/68e33a8c-79cc-40bd-94b3-da9c2e1405cd"  />
 </div>
 
-###
+<br clear="both">
 
 <p align="center">i'm a dedicated software engineer, passionate about developing high-quality software solutions using clean
 code practices and implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines.</p>
 
-###
+<br clear="both">
 
 <h2 align="center">🛠 Language and tools</h2>
 
@@ -39,24 +39,22 @@ code practices and implementing Continuous Integration/Continuous Deployment (CI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="center">🔥   My Stats </h2>
 
-###
-
 <div align="center">
-  <img align="left" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=msosav&theme=tokyonight&border=61dafb&hide_border=true" alt="msosav" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msosav&hide=jupyter%20notebook&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" height="150" alt="languages graph"  />
+      <img src="https://streak-stats.demolab.com?user=msosav&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msosav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150"             alt="languages graph"  />
 </div>
 
-<h2 align="center"> 📫 Connect with me </h2>
+<br clear="both">
 
-###
+<h2 align="center"> 📫 Connect with me </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/msosav/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@SosaDevLab"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube"/></a>
 </div>
 
-###
+<br clear="both">
