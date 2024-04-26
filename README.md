@@ -54,7 +54,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/msosav/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@SosaDevLab"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube"/></a>
-  <a href="https://www.youtube.com/@SosaDevLab"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=23ffa116&labelColor=&style=for-the-badge" height="25" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/msosav/"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=23ffa116&labelColor=&style=for-the-badge" height="25" alt="LeetCode"/></a>
 </div>
 
 <br clear="both">
