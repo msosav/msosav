@@ -1,10 +1,9 @@
-<div align="center">
-  <img src="https://github.com/msosav/msosav/assets/85181687/68e33a8c-79cc-40bd-94b3-da9c2e1405cd"  />
-</div>
+<h1 align="center">Hi, I'm Miguel</h1>
+<h3 align="center">Software Engineer</h3>
 
 <br clear="both">
 
-<p align="center">I'm a dedicated software engineering student, enthusiastic about crafting high-quality software solutions with a focus on clean code practices and the implementation of Continuous Integration/Continuous Deployment (CI/CD) pipelines. Outside of my academic pursuits, I also enjoy exploring cybersecurity as a hobby, actively seeking opportunities to enhance my understanding of security concepts and practices.</p>
+<p align="center">I'm a dedicated computer science student, enthusiastic about crafting high-quality software solutions with a focus on clean code practices and the implementation of Continuous Integration/Continuous Deployment (CI/CD) pipelines. Outside of my academic pursuits, I also enjoy exploring cybersecurity as a hobby, actively seeking opportunities to enhance my understanding of security concepts and practices.</p>
 
 <br clear="both">
 
